@@ -1,0 +1,49 @@
+name: Sync config.json from Worker
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"   # every 5 minutes
+  workflow_dispatch:        # manual trigger option
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout repo
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # 2. Fetch remote content
+      - name: Download latest config
+        run: |
+          curl -L "https://test1.mr-omidi1.workers.dev/sub/normal/%24MqHEPq*IHm%26YrFS?app=xray" -o latest.txt
+
+      # 3. Compare with existing file
+      - name: Check changes
+        run: |
+          if cmp -s latest.txt config.json; then
+            echo "No changes detected"
+            exit 0
+          fi
+
+      # 4. Replace file
+      - name: Update config.json
+        run: |
+          mv latest.txt config.json
+
+      # 5. Commit only if changed
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add config.json
+
+          git diff --cached --quiet && echo "Nothing to commit" && exit 0
+
+          git commit -m "chore: auto-sync config.json"
+          git push
