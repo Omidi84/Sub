@@ -2,7 +2,7 @@ name: Sync config.json from Worker
 
 on:
   schedule:
-    - cron: "*/5 * * * *"   # every 5 minutes
+    - cron: "*/30 * * * *"   # every 5 minutes
   workflow_dispatch:        # manual trigger option
 
 permissions:
