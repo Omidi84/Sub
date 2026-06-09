@@ -99,11 +99,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRWp3bDhsQ1JsZmZzZk5JNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiRDZndzdnVzJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.MR-OMIdI1.WorkERs.dEV",
+                        "serverName": "teST1.mR-oMiDi1.wORKeRS.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -348,11 +348,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ0NuZVZsRWNGaW8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWWVyb3RHUGQ5WmVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.mR-OMidI1.wORkerS.Dev",
+                        "serverName": "tESt1.MR-oMidI1.WorKers.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -574,7 +574,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "104.21.15.30",
                             "port": 443,
                             "users": [
                                 {
@@ -589,11 +589,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWlVWeWVENVYyUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoibmFSVEdFRkw1cllJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-oMIDi1.workErS.dEV",
+                        "serverName": "Test1.mR-OMidI1.WorkErs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -815,7 +815,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "172.67.161.71",
                             "port": 443,
                             "users": [
                                 {
@@ -830,11 +830,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoienlVRU1lNER5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiYTBFNEpzVmJwVHdhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.mr-oMIdI1.WORKERS.dEV",
+                        "serverName": "TesT1.mR-oMIDI1.WORKERs.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -996,8 +996,7 @@
                 {
                     "address": "fakedns",
                     "domains": [
-                        "geosite:category-ir",
-                        "full:www.hcaptcha.com"
+                        "geosite:category-ir"
                     ],
                     "skipFallback": false
                 },
@@ -1012,13 +1011,6 @@
                     ],
                     "expectIPs": [
                         "geoip:ir"
-                    ],
-                    "skipFallback": true
-                },
-                {
-                    "address": "8.8.8.8",
-                    "domains": [
-                        "full:www.hcaptcha.com"
                     ],
                     "skipFallback": true
                 }
@@ -1064,7 +1056,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "www.hcaptcha.com",
+                            "address": "104.19.248.146",
                             "port": 443,
                             "users": [
                                 {
@@ -1079,11 +1071,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiODVIbXI4SEdWVVFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQTJxcHoySm1QTlFUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mr-omiDi1.worKErs.Dev",
+                        "serverName": "teSt1.mR-Omidi1.WorkERs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1245,7 +1237,8 @@
                 {
                     "address": "fakedns",
                     "domains": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "full:www.hcaptcha.com"
                     ],
                     "skipFallback": false
                 },
@@ -1260,6 +1253,13 @@
                     ],
                     "expectIPs": [
                         "geoip:ir"
+                    ],
+                    "skipFallback": true
+                },
+                {
+                    "address": "8.8.8.8",
+                    "domains": [
+                        "full:www.hcaptcha.com"
                     ],
                     "skipFallback": true
                 }
@@ -1305,7 +1305,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.64.152.129",
+                            "address": "www.hcaptcha.com",
                             "port": 443,
                             "users": [
                                 {
@@ -1320,11 +1320,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiU0FWSjJXeW15TkRGVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoidDRXN1lNamg4QnVsdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.Mr-omIDI1.woRKeRs.dEv",
+                        "serverName": "teSt1.MR-omIDI1.WORkERs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1546,7 +1546,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.18.39.21",
+                            "address": "172.64.152.129",
                             "port": 443,
                             "users": [
                                 {
@@ -1561,11 +1561,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRGhIT0R5UndyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiMGZocG5GelJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.mR-OMIdI1.WORkerS.dEV",
+                        "serverName": "TeST1.MR-omIdi1.wORkErS.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1787,7 +1787,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "162.159.90.3",
+                            "address": "104.18.39.21",
                             "port": 443,
                             "users": [
                                 {
@@ -1802,11 +1802,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMTZ0UDg1TG1XVjEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicWRLNlFXNG5xZ0NEa00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.mR-omidI1.worKerS.DEV",
+                        "serverName": "tEST1.mr-oMIDi1.WORKerS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1952,7 +1952,248 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 9 - VLESS - Domain : 2096",
+        "remarks": "🚀 9 - VLESS - Clean IP : 443",
+        "version": {
+            "min": "26.2.6"
+        },
+        "log": {
+            "loglevel": "none"
+        },
+        "dns": {
+            "hosts": {
+                "geosite:category-ads-all": "#3",
+                "geosite:category-ads-ir": "#3"
+            },
+            "servers": [
+                {
+                    "address": "fakedns",
+                    "domains": [
+                        "geosite:category-ir"
+                    ],
+                    "skipFallback": false
+                },
+                {
+                    "address": "https://8.8.8.8/dns-query",
+                    "tag": "remote-dns"
+                },
+                {
+                    "address": "8.8.8.8",
+                    "domains": [
+                        "geosite:category-ir"
+                    ],
+                    "expectIPs": [
+                        "geoip:ir"
+                    ],
+                    "skipFallback": true
+                }
+            ],
+            "queryStrategy": "UseIP",
+            "tag": "dns"
+        },
+        "inbounds": [
+            {
+                "listen": "127.0.0.1",
+                "port": 10808,
+                "protocol": "mixed",
+                "settings": {
+                    "auth": "noauth",
+                    "udp": true
+                },
+                "sniffing": {
+                    "destOverride": [
+                        "http",
+                        "tls",
+                        "fakedns"
+                    ],
+                    "enabled": true,
+                    "routeOnly": true
+                },
+                "tag": "mixed-in"
+            },
+            {
+                "listen": "127.0.0.1",
+                "port": 10853,
+                "protocol": "dokodemo-door",
+                "settings": {
+                    "address": "1.1.1.1",
+                    "network": "tcp,udp",
+                    "port": 53
+                },
+                "tag": "dns-in"
+            }
+        ],
+        "outbounds": [
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "162.159.90.3",
+                            "port": 443,
+                            "users": [
+                                {
+                                    "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "test1.mr-omidi1.workers.dev",
+                        "path": "/eyJqdW5rIjoiVW0xcHRMdlI1QiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "tEST1.Mr-omidI1.woRkeRS.dEV",
+                        "fingerprint": "firefox",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "echConfigList": "udp://8.8.8.8"
+                    },
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "tcpFastOpen": true,
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "proxy"
+            },
+            {
+                "protocol": "dns",
+                "settings": {
+                    "rules": [
+                        {
+                            "action": "hijack"
+                        }
+                    ]
+                },
+                "tag": "dns-out"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "domainStrategy": "UseIP"
+                },
+                "tag": "direct"
+            },
+            {
+                "protocol": "blackhole",
+                "settings": {
+                    "response": {
+                        "type": "http"
+                    }
+                },
+                "tag": "block"
+            }
+        ],
+        "routing": {
+            "domainStrategy": "IPIfNonMatch",
+            "rules": [
+                {
+                    "inboundTag": [
+                        "mixed-in"
+                    ],
+                    "port": 53,
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns-in"
+                    ],
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "remote-dns"
+                    ],
+                    "outboundTag": "proxy",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "udp",
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ads-all",
+                        "geosite:category-ads-ir"
+                    ],
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ir"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:ir",
+                        "192.168.1.1"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "tcp",
+                    "outboundTag": "proxy",
+                    "type": "field"
+                }
+            ]
+        },
+        "policy": {
+            "levels": {
+                "0": {
+                    "connIdle": 300,
+                    "handshake": 4,
+                    "uplinkOnly": 1,
+                    "downlinkOnly": 1
+                }
+            },
+            "system": {
+                "statsOutboundUplink": true,
+                "statsOutboundDownlink": true
+            }
+        },
+        "stats": {}
+    },
+    {
+        "remarks": "🚀 10 - VLESS - Domain : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -2037,7 +2278,7 @@
                     "vnext": [
                         {
                             "address": "test1.mr-omidi1.workers.dev",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -2051,11 +2292,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoianV1blF1cWREIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoid1l3eURBSlljUndZdUJlVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.Mr-OmidI1.WORKERS.dev",
+                        "serverName": "test1.mR-oMiDI1.WorkERS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2201,7 +2442,7 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 10 - VLESS - Domain : 2096",
+        "remarks": "🚀 11 - VLESS - Domain : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -2286,7 +2527,7 @@
                     "vnext": [
                         {
                             "address": "www.speedtest.net",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -2300,11 +2541,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiR3A3YmJQRWxWQjRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNlB0Uno1MjIzaWFEbjFJNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.MR-oMidI1.WORKeRs.DeV",
+                        "serverName": "Test1.mr-omIdi1.WOrkERs.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2450,248 +2691,7 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 11 - VLESS - IPv4 : 2096",
-        "version": {
-            "min": "26.2.6"
-        },
-        "log": {
-            "loglevel": "none"
-        },
-        "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
-            "servers": [
-                {
-                    "address": "fakedns",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "skipFallback": false
-                },
-                {
-                    "address": "https://8.8.8.8/dns-query",
-                    "tag": "remote-dns"
-                },
-                {
-                    "address": "8.8.8.8",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
-                }
-            ],
-            "queryStrategy": "UseIP",
-            "tag": "dns"
-        },
-        "inbounds": [
-            {
-                "listen": "127.0.0.1",
-                "port": 10808,
-                "protocol": "mixed",
-                "settings": {
-                    "auth": "noauth",
-                    "udp": true
-                },
-                "sniffing": {
-                    "destOverride": [
-                        "http",
-                        "tls",
-                        "fakedns"
-                    ],
-                    "enabled": true,
-                    "routeOnly": true
-                },
-                "tag": "mixed-in"
-            },
-            {
-                "listen": "127.0.0.1",
-                "port": 10853,
-                "protocol": "dokodemo-door",
-                "settings": {
-                    "address": "1.1.1.1",
-                    "network": "tcp,udp",
-                    "port": 53
-                },
-                "tag": "dns-in"
-            }
-        ],
-        "outbounds": [
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.161.71",
-                            "port": 2096,
-                            "users": [
-                                {
-                                    "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoidGhCQ0l5NDA5UktoUnciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "TESt1.mr-omidI1.WorKERs.dEV",
-                        "fingerprint": "firefox",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
-                    },
-                    "sockopt": {
-                        "domainStrategy": "UseIP",
-                        "tcpFastOpen": true,
-                        "happyEyeballs": {
-                            "tryDelayMs": 250,
-                            "prioritizeIPv6": false,
-                            "interleave": 2,
-                            "maxConcurrentTry": 4
-                        }
-                    }
-                },
-                "tag": "proxy"
-            },
-            {
-                "protocol": "dns",
-                "settings": {
-                    "rules": [
-                        {
-                            "action": "hijack"
-                        }
-                    ]
-                },
-                "tag": "dns-out"
-            },
-            {
-                "protocol": "freedom",
-                "settings": {
-                    "domainStrategy": "UseIP"
-                },
-                "tag": "direct"
-            },
-            {
-                "protocol": "blackhole",
-                "settings": {
-                    "response": {
-                        "type": "http"
-                    }
-                },
-                "tag": "block"
-            }
-        ],
-        "routing": {
-            "domainStrategy": "IPIfNonMatch",
-            "rules": [
-                {
-                    "inboundTag": [
-                        "mixed-in"
-                    ],
-                    "port": 53,
-                    "outboundTag": "dns-out",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "dns-in"
-                    ],
-                    "outboundTag": "dns-out",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "remote-dns"
-                    ],
-                    "outboundTag": "proxy",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "dns"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:private"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:private"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ir"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir",
-                        "192.168.1.1"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "network": "tcp",
-                    "outboundTag": "proxy",
-                    "type": "field"
-                }
-            ]
-        },
-        "policy": {
-            "levels": {
-                "0": {
-                    "connIdle": 300,
-                    "handshake": 4,
-                    "uplinkOnly": 1,
-                    "downlinkOnly": 1
-                }
-            },
-            "system": {
-                "statsOutboundUplink": true,
-                "statsOutboundDownlink": true
-            }
-        },
-        "stats": {}
-    },
-    {
-        "remarks": "🚀 12 - VLESS - IPv4 : 2096",
+        "remarks": "🚀 12 - VLESS - IPv4 : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -2768,7 +2768,7 @@
                     "vnext": [
                         {
                             "address": "104.21.15.30",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -2782,11 +2782,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiVG5xalBkNDVDYW1EViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiVEJXWDh6MXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.MR-oMidI1.wORKeRs.DeV",
+                        "serverName": "teSt1.MR-oMidi1.wOrKErS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2932,7 +2932,489 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 13 - VLESS - Clean IP : 2096",
+        "remarks": "🚀 13 - VLESS - IPv4 : 8443",
+        "version": {
+            "min": "26.2.6"
+        },
+        "log": {
+            "loglevel": "none"
+        },
+        "dns": {
+            "hosts": {
+                "geosite:category-ads-all": "#3",
+                "geosite:category-ads-ir": "#3"
+            },
+            "servers": [
+                {
+                    "address": "fakedns",
+                    "domains": [
+                        "geosite:category-ir"
+                    ],
+                    "skipFallback": false
+                },
+                {
+                    "address": "https://8.8.8.8/dns-query",
+                    "tag": "remote-dns"
+                },
+                {
+                    "address": "8.8.8.8",
+                    "domains": [
+                        "geosite:category-ir"
+                    ],
+                    "expectIPs": [
+                        "geoip:ir"
+                    ],
+                    "skipFallback": true
+                }
+            ],
+            "queryStrategy": "UseIP",
+            "tag": "dns"
+        },
+        "inbounds": [
+            {
+                "listen": "127.0.0.1",
+                "port": 10808,
+                "protocol": "mixed",
+                "settings": {
+                    "auth": "noauth",
+                    "udp": true
+                },
+                "sniffing": {
+                    "destOverride": [
+                        "http",
+                        "tls",
+                        "fakedns"
+                    ],
+                    "enabled": true,
+                    "routeOnly": true
+                },
+                "tag": "mixed-in"
+            },
+            {
+                "listen": "127.0.0.1",
+                "port": 10853,
+                "protocol": "dokodemo-door",
+                "settings": {
+                    "address": "1.1.1.1",
+                    "network": "tcp,udp",
+                    "port": 53
+                },
+                "tag": "dns-in"
+            }
+        ],
+        "outbounds": [
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.161.71",
+                            "port": 8443,
+                            "users": [
+                                {
+                                    "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "test1.mr-omidi1.workers.dev",
+                        "path": "/eyJqdW5rIjoiNkE4Y2ZTMUh4dzhwSzkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "tesT1.Mr-OMiDI1.WoRkeRs.DEV",
+                        "fingerprint": "firefox",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "echConfigList": "udp://8.8.8.8"
+                    },
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "tcpFastOpen": true,
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "proxy"
+            },
+            {
+                "protocol": "dns",
+                "settings": {
+                    "rules": [
+                        {
+                            "action": "hijack"
+                        }
+                    ]
+                },
+                "tag": "dns-out"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "domainStrategy": "UseIP"
+                },
+                "tag": "direct"
+            },
+            {
+                "protocol": "blackhole",
+                "settings": {
+                    "response": {
+                        "type": "http"
+                    }
+                },
+                "tag": "block"
+            }
+        ],
+        "routing": {
+            "domainStrategy": "IPIfNonMatch",
+            "rules": [
+                {
+                    "inboundTag": [
+                        "mixed-in"
+                    ],
+                    "port": 53,
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns-in"
+                    ],
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "remote-dns"
+                    ],
+                    "outboundTag": "proxy",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "udp",
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ads-all",
+                        "geosite:category-ads-ir"
+                    ],
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ir"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:ir",
+                        "192.168.1.1"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "tcp",
+                    "outboundTag": "proxy",
+                    "type": "field"
+                }
+            ]
+        },
+        "policy": {
+            "levels": {
+                "0": {
+                    "connIdle": 300,
+                    "handshake": 4,
+                    "uplinkOnly": 1,
+                    "downlinkOnly": 1
+                }
+            },
+            "system": {
+                "statsOutboundUplink": true,
+                "statsOutboundDownlink": true
+            }
+        },
+        "stats": {}
+    },
+    {
+        "remarks": "🚀 14 - VLESS - Clean IP : 8443",
+        "version": {
+            "min": "26.2.6"
+        },
+        "log": {
+            "loglevel": "none"
+        },
+        "dns": {
+            "hosts": {
+                "geosite:category-ads-all": "#3",
+                "geosite:category-ads-ir": "#3"
+            },
+            "servers": [
+                {
+                    "address": "fakedns",
+                    "domains": [
+                        "geosite:category-ir"
+                    ],
+                    "skipFallback": false
+                },
+                {
+                    "address": "https://8.8.8.8/dns-query",
+                    "tag": "remote-dns"
+                },
+                {
+                    "address": "8.8.8.8",
+                    "domains": [
+                        "geosite:category-ir"
+                    ],
+                    "expectIPs": [
+                        "geoip:ir"
+                    ],
+                    "skipFallback": true
+                }
+            ],
+            "queryStrategy": "UseIP",
+            "tag": "dns"
+        },
+        "inbounds": [
+            {
+                "listen": "127.0.0.1",
+                "port": 10808,
+                "protocol": "mixed",
+                "settings": {
+                    "auth": "noauth",
+                    "udp": true
+                },
+                "sniffing": {
+                    "destOverride": [
+                        "http",
+                        "tls",
+                        "fakedns"
+                    ],
+                    "enabled": true,
+                    "routeOnly": true
+                },
+                "tag": "mixed-in"
+            },
+            {
+                "listen": "127.0.0.1",
+                "port": 10853,
+                "protocol": "dokodemo-door",
+                "settings": {
+                    "address": "1.1.1.1",
+                    "network": "tcp,udp",
+                    "port": 53
+                },
+                "tag": "dns-in"
+            }
+        ],
+        "outbounds": [
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.19.248.146",
+                            "port": 8443,
+                            "users": [
+                                {
+                                    "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "test1.mr-omidi1.workers.dev",
+                        "path": "/eyJqdW5rIjoiVTJ2ZkNTcDB0MHoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "tEst1.mR-OmIDI1.WorkeRS.DEV",
+                        "fingerprint": "firefox",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "echConfigList": "udp://8.8.8.8"
+                    },
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "tcpFastOpen": true,
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "proxy"
+            },
+            {
+                "protocol": "dns",
+                "settings": {
+                    "rules": [
+                        {
+                            "action": "hijack"
+                        }
+                    ]
+                },
+                "tag": "dns-out"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "domainStrategy": "UseIP"
+                },
+                "tag": "direct"
+            },
+            {
+                "protocol": "blackhole",
+                "settings": {
+                    "response": {
+                        "type": "http"
+                    }
+                },
+                "tag": "block"
+            }
+        ],
+        "routing": {
+            "domainStrategy": "IPIfNonMatch",
+            "rules": [
+                {
+                    "inboundTag": [
+                        "mixed-in"
+                    ],
+                    "port": 53,
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns-in"
+                    ],
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "remote-dns"
+                    ],
+                    "outboundTag": "proxy",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "udp",
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ads-all",
+                        "geosite:category-ads-ir"
+                    ],
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ir"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:ir",
+                        "192.168.1.1"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "tcp",
+                    "outboundTag": "proxy",
+                    "type": "field"
+                }
+            ]
+        },
+        "policy": {
+            "levels": {
+                "0": {
+                    "connIdle": 300,
+                    "handshake": 4,
+                    "uplinkOnly": 1,
+                    "downlinkOnly": 1
+                }
+            },
+            "system": {
+                "statsOutboundUplink": true,
+                "statsOutboundDownlink": true
+            }
+        },
+        "stats": {}
+    },
+    {
+        "remarks": "🚀 15 - VLESS - Clean IP : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -3017,7 +3499,7 @@
                     "vnext": [
                         {
                             "address": "www.hcaptcha.com",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -3031,11 +3513,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibGZZVlA2Z3VTdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiaG56VDZrdEczTFI5YWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mR-omidI1.WorKers.dEV",
+                        "serverName": "tESt1.mr-OMiDI1.WORkERS.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3181,7 +3663,7 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 14 - VLESS - Clean IP : 2096",
+        "remarks": "🚀 16 - VLESS - Clean IP : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -3258,7 +3740,7 @@
                     "vnext": [
                         {
                             "address": "172.64.152.129",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -3272,11 +3754,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicGJmUjJ2emJ6NDB6QWxJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUklJUG5EeGVrV1E2N0lMZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.MR-omIdi1.wOrkers.dEV",
+                        "serverName": "tEst1.mr-oMIDI1.WOrKers.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3422,7 +3904,7 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 15 - VLESS - Clean IP : 2096",
+        "remarks": "🚀 17 - VLESS - Clean IP : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -3499,7 +3981,7 @@
                     "vnext": [
                         {
                             "address": "104.18.39.21",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -3513,11 +3995,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUXlYcVVaTExaUmFzZEgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiaXF2UUVRUXRVQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.mR-OmIDi1.Workers.DEv",
+                        "serverName": "TESt1.MR-OMiDi1.WoRKeRS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3663,7 +4145,7 @@
         "stats": {}
     },
     {
-        "remarks": "🚀 16 - VLESS - Clean IP : 2096",
+        "remarks": "🚀 18 - VLESS - Clean IP : 8443",
         "version": {
             "min": "26.2.6"
         },
@@ -3740,7 +4222,7 @@
                     "vnext": [
                         {
                             "address": "162.159.90.3",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -3754,11 +4236,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZlBxRXZKdGxITnd6STUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWm15Z1lwTlY3cFgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tesT1.Mr-OmIdI1.workeRs.DeV",
+                        "serverName": "TEST1.mr-OmiDI1.wORkErS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4007,11 +4489,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRWp3bDhsQ1JsZmZzZk5JNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiRDZndzdnVzJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.MR-OMIdI1.WorkERs.dEV",
+                        "serverName": "teST1.mR-oMiDi1.wORKeRS.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4051,11 +4533,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ0NuZVZsRWNGaW8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWWVyb3RHUGQ5WmVYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.mR-OMidI1.wORkerS.Dev",
+                        "serverName": "tESt1.MR-oMidI1.WorKers.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4080,7 +4562,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "104.21.15.30",
                             "port": 443,
                             "users": [
                                 {
@@ -4095,11 +4577,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWlVWeWVENVYyUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoibmFSVEdFRkw1cllJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-oMIDi1.workErS.dEV",
+                        "serverName": "Test1.mR-OMidI1.WorkErs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4124,7 +4606,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "172.67.161.71",
                             "port": 443,
                             "users": [
                                 {
@@ -4139,11 +4621,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoienlVRU1lNER5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiYTBFNEpzVmJwVHdhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.mr-oMIdI1.WORKERS.dEV",
+                        "serverName": "TesT1.mR-oMIDI1.WORKERs.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4168,7 +4650,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "www.hcaptcha.com",
+                            "address": "104.19.248.146",
                             "port": 443,
                             "users": [
                                 {
@@ -4183,11 +4665,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiODVIbXI4SEdWVVFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQTJxcHoySm1QTlFUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mr-omiDi1.worKErs.Dev",
+                        "serverName": "teSt1.mR-Omidi1.WorkERs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4212,7 +4694,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.64.152.129",
+                            "address": "www.hcaptcha.com",
                             "port": 443,
                             "users": [
                                 {
@@ -4227,11 +4709,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiU0FWSjJXeW15TkRGVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoidDRXN1lNamg4QnVsdyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.Mr-omIDI1.woRKeRs.dEv",
+                        "serverName": "teSt1.MR-omIDI1.WORkERs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4256,7 +4738,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.18.39.21",
+                            "address": "172.64.152.129",
                             "port": 443,
                             "users": [
                                 {
@@ -4271,11 +4753,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRGhIT0R5UndyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiMGZocG5GelJCIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.mR-OMIdI1.WORkerS.dEV",
+                        "serverName": "TeST1.MR-omIdi1.wORkErS.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4300,7 +4782,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "162.159.90.3",
+                            "address": "104.18.39.21",
                             "port": 443,
                             "users": [
                                 {
@@ -4315,11 +4797,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMTZ0UDg1TG1XVjEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicWRLNlFXNG5xZ0NEa00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.mR-omidI1.worKerS.DEV",
+                        "serverName": "tEST1.mr-oMIDi1.WORKerS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4344,8 +4826,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "test1.mr-omidi1.workers.dev",
-                            "port": 2096,
+                            "address": "162.159.90.3",
+                            "port": 443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4359,11 +4841,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoianV1blF1cWREIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiVW0xcHRMdlI1QiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.Mr-OmidI1.WORKERS.dev",
+                        "serverName": "tEST1.Mr-omidI1.woRkeRS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4388,8 +4870,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "www.speedtest.net",
-                            "port": 2096,
+                            "address": "test1.mr-omidi1.workers.dev",
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4403,11 +4885,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiR3A3YmJQRWxWQjRsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoid1l3eURBSlljUndZdUJlVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.MR-oMidI1.WORKeRs.DeV",
+                        "serverName": "test1.mR-oMiDI1.WorkERS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4432,8 +4914,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
-                            "port": 2096,
+                            "address": "www.speedtest.net",
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4447,11 +4929,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoidGhCQ0l5NDA5UktoUnciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNlB0Uno1MjIzaWFEbjFJNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.mr-omidI1.WorKERs.dEV",
+                        "serverName": "Test1.mr-omIdi1.WOrkERs.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4477,7 +4959,7 @@
                     "vnext": [
                         {
                             "address": "104.21.15.30",
-                            "port": 2096,
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4491,11 +4973,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiVG5xalBkNDVDYW1EViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiVEJXWDh6MXAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.MR-oMidI1.wORKeRs.DeV",
+                        "serverName": "teSt1.MR-oMidi1.wOrKErS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4520,8 +5002,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "www.hcaptcha.com",
-                            "port": 2096,
+                            "address": "172.67.161.71",
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4535,11 +5017,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibGZZVlA2Z3VTdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0Mi4xMzIuMTc4Ljk5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNkE4Y2ZTMUh4dzhwSzkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mR-omidI1.WorKers.dEV",
+                        "serverName": "tesT1.Mr-OMiDI1.WoRkeRs.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4564,8 +5046,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.64.152.129",
-                            "port": 2096,
+                            "address": "104.19.248.146",
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4579,11 +5061,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicGJmUjJ2emJ6NDB6QWxJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQyLjEzMi4xNzguOTkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiVTJ2ZkNTcDB0MHoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.MR-omIdi1.wOrkers.dEV",
+                        "serverName": "tEst1.mR-OmIDI1.WorkeRS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4608,8 +5090,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.18.39.21",
-                            "port": 2096,
+                            "address": "www.hcaptcha.com",
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4623,11 +5105,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUXlYcVVaTExaUmFzZEgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiaG56VDZrdEczTFI5YWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.mR-OmIDi1.Workers.DEv",
+                        "serverName": "tESt1.mr-OMiDI1.WORkERS.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4652,8 +5134,8 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "162.159.90.3",
-                            "port": 2096,
+                            "address": "172.64.152.129",
+                            "port": 8443,
                             "users": [
                                 {
                                     "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
@@ -4667,11 +5149,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZlBxRXZKdGxITnd6STUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDIuMTMyLjE3OC45OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUklJUG5EeGVrV1E2N0lMZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tesT1.Mr-OmIdI1.workeRs.DeV",
+                        "serverName": "tEst1.mr-oMIDI1.WOrKers.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4690,6 +5172,94 @@
                     }
                 },
                 "tag": "proxy-16"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.18.39.21",
+                            "port": 8443,
+                            "users": [
+                                {
+                                    "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "test1.mr-omidi1.workers.dev",
+                        "path": "/eyJqdW5rIjoiaXF2UUVRUXRVQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "TESt1.MR-OMiDi1.WoRKeRS.DEV",
+                        "fingerprint": "firefox",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "echConfigList": "udp://8.8.8.8"
+                    },
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "tcpFastOpen": true,
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "proxy-17"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "162.159.90.3",
+                            "port": 8443,
+                            "users": [
+                                {
+                                    "id": "1f3ae7a9-a950-4e16-9544-821922ea3d1e",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "test1.mr-omidi1.workers.dev",
+                        "path": "/eyJqdW5rIjoiWm15Z1lwTlY3cFgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "TEST1.mr-OmiDI1.wORkErS.dEV",
+                        "fingerprint": "firefox",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "echConfigList": "udp://8.8.8.8"
+                    },
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "tcpFastOpen": true,
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "proxy-18"
             },
             {
                 "protocol": "dns",
