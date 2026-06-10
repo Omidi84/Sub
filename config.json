@@ -99,16 +99,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibHJwTVNmSU12SmYzTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTzJpZ0RVeTZTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "test1.mR-OmIDI1.wORKeRS.deV",
+                        "serverName": "TEst1.mr-OMiDi1.WoRkErs.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -348,16 +347,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiVlNWZmNUQlNnZnZiTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNlFyekNxM3VMdGFnZklFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mR-OMIDi1.WORKers.DEV",
+                        "serverName": "TeSt1.Mr-OMIDi1.worKeRs.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -589,16 +587,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiS0x3QnkxTmwyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQ0lhcWFudEZRQndmWEIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.MR-OmIDI1.WoRkERS.dEv",
+                        "serverName": "tEsT1.mr-OMIdi1.WorKErS.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -830,16 +827,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiaVBCUFp2ZDEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUUZNcXdkMkR3Q0tlYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-OmIdI1.WOrkeRs.deV",
+                        "serverName": "Test1.MR-oMiDI1.wOrKErs.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -1071,16 +1067,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYzBxMnhsZnZZT1FVVkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ1hDZVZjbzdrN2liOEMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEsT1.MR-OmIDi1.WoRkeRs.dev",
+                        "serverName": "TEsT1.mr-OmiDI1.WOrkErS.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -1320,16 +1315,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiSUUyb1B5RXNDZUEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoieHlsbWh2SzN6Z1gwOFAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.mr-OmIDI1.workErS.DeV",
+                        "serverName": "TesT1.mr-OMiDI1.WOrKeRS.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -1561,16 +1555,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZlhhcVNIazBHRWRZMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWThrWlRmZHpuNUFFd0hiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.mR-oMiDi1.workErs.dEv",
+                        "serverName": "tESt1.Mr-OmIDI1.wORkERs.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -1802,16 +1795,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ29vbERuYkciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQmNIbml2TmZQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tesT1.mr-omidi1.wORkErs.dEV",
+                        "serverName": "TeSt1.mr-OmIDi1.woRKERs.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -2043,16 +2035,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMmFGVWNoR0NjTTkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiVWRyZ3VtbmZXeExtRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.Mr-OMIDi1.woRKerS.dev",
+                        "serverName": "tESt1.mR-OmIdI1.WOrKERS.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -2292,16 +2283,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibHZJS20yWTJCb1BjWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiRlUwRzk5N3AxOHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.mr-OmIdI1.WorKeRS.Dev",
+                        "serverName": "TEST1.mr-omIdI1.WORKErS.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -2541,16 +2531,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZVNFVzJ3UTg2NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGlGaXFrRVNTeGVBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mr-Omidi1.WorKeRs.DeV",
+                        "serverName": "TeST1.Mr-omidi1.worKERs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -2782,16 +2771,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWW9jOWJCaUhtNDAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicG52TzNvblZ0U0hwQkwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.Mr-OMIdi1.WorkERS.dEV",
+                        "serverName": "test1.Mr-omiDI1.wOrkers.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -3023,16 +3011,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiN3h6QlFqWWFVNFM2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoicnhlMnM4a1dQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.MR-oMIdI1.woRKERs.Dev",
+                        "serverName": "test1.Mr-oMidi1.WOrKErs.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -3264,16 +3251,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnZsVGxyVkJabHRBeVhudyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWWp6UlpUdnFzRkNOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mr-omidI1.wORKERS.Dev",
+                        "serverName": "TeST1.MR-OMIDI1.woRKeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -3513,16 +3499,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoieTN3d2E3am9tM1htVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoieVdlVE93MUt1MXlWSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.MR-oMiDI1.wOrKErS.DeV",
+                        "serverName": "TEst1.mr-omiDI1.WorKers.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -3754,16 +3739,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiOTVIV3Y5Z0hBS0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYk9rRnNSWGcxdVVFdDF6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mr-OmIdI1.WorkeRs.Dev",
+                        "serverName": "tESt1.MR-OMIDI1.WOrkERs.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -3995,16 +3979,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicDlNWVZEMmVqSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiczZRSlpQVEJ1Z2ZTTGlJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEsT1.Mr-OMIDI1.WOrKers.dev",
+                        "serverName": "TEsT1.Mr-oMiDi1.workerS.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4236,16 +4219,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoieVZad2R6cTRVTm94bmlsMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGNFOWV6RVowV0ZuciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mR-OmIDi1.woRkeRS.dev",
+                        "serverName": "teSt1.MR-OMidI1.WorKeRs.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4489,16 +4471,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibHJwTVNmSU12SmYzTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTzJpZ0RVeTZTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "test1.mR-OmIDI1.wORKeRS.deV",
+                        "serverName": "TEst1.mr-OMiDi1.WoRkErs.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4533,16 +4514,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiVlNWZmNUQlNnZnZiTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNlFyekNxM3VMdGFnZklFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mR-OMIDi1.WORKers.DEV",
+                        "serverName": "TeSt1.Mr-OMIDi1.worKeRs.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4577,16 +4557,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiS0x3QnkxTmwyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQ0lhcWFudEZRQndmWEIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.MR-OmIDI1.WoRkERS.dEv",
+                        "serverName": "tEsT1.mr-OMIdi1.WorKErS.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4621,16 +4600,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiaVBCUFp2ZDEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUUZNcXdkMkR3Q0tlYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-OmIdI1.WOrkeRs.deV",
+                        "serverName": "Test1.MR-oMiDI1.wOrKErs.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4665,16 +4643,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYzBxMnhsZnZZT1FVVkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ1hDZVZjbzdrN2liOEMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEsT1.MR-OmIDi1.WoRkeRs.dev",
+                        "serverName": "TEsT1.mr-OmiDI1.WOrkErS.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4709,16 +4686,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiSUUyb1B5RXNDZUEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoieHlsbWh2SzN6Z1gwOFAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.mr-OmIDI1.workErS.DeV",
+                        "serverName": "TesT1.mr-OMiDI1.WOrKeRS.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4753,16 +4729,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZlhhcVNIazBHRWRZMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWThrWlRmZHpuNUFFd0hiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.mR-oMiDi1.workErs.dEv",
+                        "serverName": "tESt1.Mr-OmIDI1.wORkERs.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4797,16 +4772,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ29vbERuYkciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQmNIbml2TmZQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tesT1.mr-omidi1.wORkErs.dEV",
+                        "serverName": "TeSt1.mr-OmIDi1.woRKERs.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4841,16 +4815,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMmFGVWNoR0NjTTkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiVWRyZ3VtbmZXeExtRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.Mr-OMIDi1.woRKerS.dev",
+                        "serverName": "tESt1.mR-OmIdI1.WOrKERS.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4885,16 +4858,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibHZJS20yWTJCb1BjWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiRlUwRzk5N3AxOHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.mr-OmIdI1.WorKeRS.Dev",
+                        "serverName": "TEST1.mr-omIdI1.WORKErS.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4929,16 +4901,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZVNFVzJ3UTg2NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGlGaXFrRVNTeGVBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mr-Omidi1.WorKeRs.DeV",
+                        "serverName": "TeST1.Mr-omidi1.worKERs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -4973,16 +4944,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWW9jOWJCaUhtNDAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicG52TzNvblZ0U0hwQkwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.Mr-OMIdi1.WorkERS.dEV",
+                        "serverName": "test1.Mr-omiDI1.wOrkers.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -5017,16 +4987,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiN3h6QlFqWWFVNFM2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoicnhlMnM4a1dQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.MR-oMIdI1.woRKERs.Dev",
+                        "serverName": "test1.Mr-oMidi1.WOrKErs.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -5061,16 +5030,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnZsVGxyVkJabHRBeVhudyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWWp6UlpUdnFzRkNOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mr-omidI1.wORKERS.Dev",
+                        "serverName": "TeST1.MR-OMIDI1.woRKeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -5105,16 +5073,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoieTN3d2E3am9tM1htVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoieVdlVE93MUt1MXlWSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.MR-oMiDI1.wOrKErS.DeV",
+                        "serverName": "TEst1.mr-omiDI1.WorKers.dEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -5149,16 +5116,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiOTVIV3Y5Z0hBS0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyI5MS4xMDcuMTcxLjI1MSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYk9rRnNSWGcxdVVFdDF6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mr-OmIdI1.WorkeRs.Dev",
+                        "serverName": "tESt1.MR-OMIDI1.WOrkERs.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -5193,16 +5159,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicDlNWVZEMmVqSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiczZRSlpQVEJ1Z2ZTTGlJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiOTEuMTA3LjE3MS4yNTEiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEsT1.Mr-OMIDI1.WOrKers.dev",
+                        "serverName": "TEsT1.Mr-oMiDi1.workerS.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
@@ -5237,16 +5202,15 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoieVZad2R6cTRVTm94bmlsMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGNFOWV6RVowV0ZuciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNzEuMjUxIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mR-OmIDi1.woRkeRS.dev",
+                        "serverName": "teSt1.MR-OMidI1.WorKeRs.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
-                        ],
-                        "echConfigList": "udp://8.8.8.8"
+                        ]
                     },
                     "sockopt": {
                         "domainStrategy": "UseIP",
