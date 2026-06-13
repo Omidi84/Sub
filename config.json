@@ -107,11 +107,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUFlOSlpuUFlUUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoidzJxbnRvWU5QclExeE83VSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.MR-omiDI1.wORKerS.DeV",
+                        "serverName": "TESt1.MR-Omidi1.wORKErS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -364,11 +364,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWU9CUVJva2ZKams0b1hTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiR1MwQjVxNHdvVnY4ZmgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-OMiDI1.WoRkErS.dEv",
+                        "serverName": "TESt1.mr-omIDi1.Workers.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -598,7 +598,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "104.21.15.30",
                             "port": 443,
                             "users": [
                                 {
@@ -613,11 +613,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoidXNrUFhudWlwbHFGZmZ5NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiaTdFYnd5cDFlODI0dk4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEsT1.Mr-omidi1.WORKeRS.dEV",
+                        "serverName": "TEsT1.Mr-OMidI1.wOrKers.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -847,7 +847,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "172.67.161.71",
                             "port": 443,
                             "users": [
                                 {
@@ -862,11 +862,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiN25BWVlJSGlXN2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMmljZkFDM3RneWRhTUFrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.mr-OMidI1.woRKeRs.deV",
+                        "serverName": "teSt1.Mr-OmIdi1.wORKers.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1111,11 +1111,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRUlUcUxKWmk2elRqRXMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGR1OGdGNjBCbm0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TesT1.mr-OMiDI1.wOrKErS.DeV",
+                        "serverName": "TeSt1.mr-OmIDi1.WorKers.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1368,11 +1368,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoieTRJbzBGUWszcmxNOHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiSXI2c0pBRGs2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.Mr-omidI1.WORkErS.dev",
+                        "serverName": "Test1.mr-OMiDi1.WOrkErS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1617,11 +1617,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicGdGcU16dEp3dDJSQjZPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoidEtzQ0UzOUUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.mR-OMidi1.wORKERS.DEv",
+                        "serverName": "tEst1.mR-omiDi1.WorKErS.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -1866,11 +1866,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibTh3NlRodkdBUDBRbkt2RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiOElJbFE0Sk1KIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mr-oMiDI1.WoRKERS.dEv",
+                        "serverName": "TesT1.mR-oMIDi1.wORkeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2115,11 +2115,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWXhTVDJyVGNDRFB5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiU243M1Y4R3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.MR-omiDi1.wORkers.dEv",
+                        "serverName": "TeSt1.mr-OMIdi1.wORkerS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2372,11 +2372,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoidTI5TVhwMUt1MnFlcU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUlF2TWdBZDFuIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.mR-oMiDi1.WORKers.dev",
+                        "serverName": "TESt1.Mr-OMidi1.WOrkeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2629,11 +2629,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiV0NTWlBqU1ZxcXlSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGdEQnk2bUNJeFdKcngiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-omIDi1.worKErS.DeV",
+                        "serverName": "TEST1.mr-OMidi1.WOrkeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -2863,7 +2863,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "104.21.15.30",
                             "port": 8443,
                             "users": [
                                 {
@@ -2878,11 +2878,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoib1pZejRhWUszS29mQW8zViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoidzc2N29HdWpqbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mR-oMidi1.worKERs.DEV",
+                        "serverName": "TeST1.MR-omidi1.WoRkers.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3112,7 +3112,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "172.67.161.71",
                             "port": 8443,
                             "users": [
                                 {
@@ -3127,11 +3127,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMXk0elN6RDdLaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiazZHZjhVMlNERFhidndqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.MR-oMidi1.WoRkErs.deV",
+                        "serverName": "TEst1.MR-OMIdi1.woRKERs.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3376,11 +3376,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRTVrZ0g5cUdwSkUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYlJVbVRoNVpnenJlblh6MCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.MR-omIdI1.WORkers.DEV",
+                        "serverName": "TEst1.mR-oMiDI1.WOrKeRs.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3633,11 +3633,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiaVdQSTV1RTlHVmNPSnFJVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ3E2bEFtU2ppakR1Q3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.Mr-OMiDI1.WOrKERs.dev",
+                        "serverName": "TEST1.mR-OMiDI1.woRKerS.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -3882,11 +3882,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYVRiMXBHVEE2YSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiT1BoT2ZxNGhpUjN6cVVWWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mr-OMiDi1.workeRs.Dev",
+                        "serverName": "TEst1.MR-OMidI1.worKerS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4131,11 +4131,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiVHYwdVRIZXRvbjVxNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiT2N1U2IxdUJlR3RnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.Mr-OmidI1.workErS.dev",
+                        "serverName": "TEsT1.mr-oMIdI1.wOrKERS.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4380,11 +4380,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiU2hINDhBaGtuTVlHcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiY2RWUWlBMkgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.MR-OmiDI1.WoRkErS.DeV",
+                        "serverName": "TeSt1.Mr-oMIdi1.WorKerS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4641,11 +4641,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUFlOSlpuUFlUUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoidzJxbnRvWU5QclExeE83VSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.MR-omiDI1.wORKerS.DeV",
+                        "serverName": "TESt1.MR-Omidi1.wORKErS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4684,11 +4684,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWU9CUVJva2ZKams0b1hTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiR1MwQjVxNHdvVnY4ZmgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-OMiDI1.WoRkErS.dEv",
+                        "serverName": "TESt1.mr-omIDi1.Workers.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4712,7 +4712,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "104.21.15.30",
                             "port": 443,
                             "users": [
                                 {
@@ -4727,11 +4727,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoidXNrUFhudWlwbHFGZmZ5NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiaTdFYnd5cDFlODI0dk4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEsT1.Mr-omidi1.WORKeRS.dEV",
+                        "serverName": "TEsT1.Mr-OMidI1.wOrKers.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4755,7 +4755,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "172.67.161.71",
                             "port": 443,
                             "users": [
                                 {
@@ -4770,11 +4770,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiN25BWVlJSGlXN2YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMmljZkFDM3RneWRhTUFrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.mr-OMidI1.woRKeRs.deV",
+                        "serverName": "teSt1.Mr-OmIdi1.wORKers.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4813,11 +4813,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRUlUcUxKWmk2elRqRXMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGR1OGdGNjBCbm0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TesT1.mr-OMiDI1.wOrKErS.DeV",
+                        "serverName": "TeSt1.mr-OmIDi1.WorKers.DeV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4856,11 +4856,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoieTRJbzBGUWszcmxNOHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiSXI2c0pBRGs2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.Mr-omidI1.WORkErS.dev",
+                        "serverName": "Test1.mr-OMiDi1.WOrkErS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4899,11 +4899,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicGdGcU16dEp3dDJSQjZPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoidEtzQ0UzOUUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.mR-OMidi1.wORKERS.DEv",
+                        "serverName": "tEst1.mR-omiDi1.WorKErS.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4942,11 +4942,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibTh3NlRodkdBUDBRbkt2RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiOElJbFE0Sk1KIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mr-oMiDI1.WoRKERS.dEv",
+                        "serverName": "TesT1.mR-oMIDi1.wORkeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -4985,11 +4985,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiWXhTVDJyVGNDRFB5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiU243M1Y4R3EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.MR-omiDi1.wORkers.dEv",
+                        "serverName": "TeSt1.mr-OMIdi1.wORkerS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5028,11 +5028,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoidTI5TVhwMUt1MnFlcU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUlF2TWdBZDFuIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.mR-oMiDi1.WORKers.dev",
+                        "serverName": "TESt1.Mr-OMidi1.WOrkeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5071,11 +5071,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiV0NTWlBqU1ZxcXlSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGdEQnk2bUNJeFdKcngiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.Mr-omIDi1.worKErS.DeV",
+                        "serverName": "TEST1.mr-OMidi1.WOrkeRs.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5099,7 +5099,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "104.21.15.30",
                             "port": 8443,
                             "users": [
                                 {
@@ -5114,11 +5114,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoib1pZejRhWUszS29mQW8zViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoidzc2N29HdWpqbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEsT1.mR-oMidi1.worKERs.DEV",
+                        "serverName": "TeST1.MR-omidi1.WoRkers.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5142,7 +5142,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "172.67.161.71",
                             "port": 8443,
                             "users": [
                                 {
@@ -5157,11 +5157,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMXk0elN6RDdLaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiazZHZjhVMlNERFhidndqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.MR-oMidi1.WoRkErs.deV",
+                        "serverName": "TEst1.MR-OMIdi1.woRKERs.dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5200,11 +5200,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRTVrZ0g5cUdwSkUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYlJVbVRoNVpnenJlblh6MCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.MR-omIdI1.WORkers.DEV",
+                        "serverName": "TEst1.mR-oMiDI1.WOrKeRs.Dev",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5243,11 +5243,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiaVdQSTV1RTlHVmNPSnFJVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ3E2bEFtU2ppakR1Q3IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.Mr-OMiDI1.WOrKERs.dev",
+                        "serverName": "TEST1.mR-OMiDI1.woRKerS.deV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5286,11 +5286,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYVRiMXBHVEE2YSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiT1BoT2ZxNGhpUjN6cVVWWSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeST1.mr-OMiDi1.workeRs.Dev",
+                        "serverName": "TEst1.MR-OMidI1.worKerS.dEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5329,11 +5329,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiVHYwdVRIZXRvbjVxNSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiT2N1U2IxdUJlR3RnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.Mr-OmidI1.workErS.dev",
+                        "serverName": "TEsT1.mr-oMIdI1.wOrKERS.DEv",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
@@ -5372,11 +5372,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiU2hINDhBaGtuTVlHcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiY2RWUWlBMkgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.MR-OmiDI1.WoRkErS.DeV",
+                        "serverName": "TeSt1.Mr-oMIdi1.WorKerS.DEV",
                         "fingerprint": "firefox",
                         "alpn": [
                             "http/1.1"
