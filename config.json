@@ -17,7 +17,7 @@
                     "address": "fakedns",
                     "domains": [
                         "geosite:category-ir",
-                        "full:test1.mr-omidi1.workers.dev"
+                        "full:test1.mr-omidi2.workers.dev"
                     ],
                     "skipFallback": false
                 },
@@ -46,7 +46,7 @@
                 {
                     "address": "8.8.8.8",
                     "domains": [
-                        "full:test1.mr-omidi1.workers.dev"
+                        "full:test1.mr-omidi2.workers.dev"
                     ],
                     "skipFallback": true
                 }
@@ -92,7 +92,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "test1.mr-omidi1.workers.dev",
+                            "address": "test1.mr-omidi2.workers.dev",
                             "port": 443,
                             "users": [
                                 {
@@ -106,13 +106,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRElDS2JSelZ6UiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoia21XczFiSnNqNTVrUng1ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "test1.MR-OmIdi1.wOrKeRs.deV",
-                        "fingerprint": "firefox",
+                        "serverName": "TEST1.mr-OMiDi2.wORKERs.dEv",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -363,13 +363,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZTdNeGVIcWhoNnFsUFUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoidkpRbUFxeHJHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.mr-omidi1.wOrKErS.DeV",
-                        "fingerprint": "firefox",
+                        "serverName": "TesT1.Mr-OmiDI2.wORKErs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -598,7 +598,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "172.67.137.151",
                             "port": 443,
                             "users": [
                                 {
@@ -612,13 +612,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMW9GblBnT3RtS0VXZE1xIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiM0RWYmIzMkFqalp3ZWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.mR-Omidi1.worKErs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tesT1.mr-OMidI2.WorKERs.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -847,7 +847,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "104.21.70.161",
                             "port": 443,
                             "users": [
                                 {
@@ -861,13 +861,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUTRzZUI4RmY4ekZUNUEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOGVOaEhuMjMwd3ZmRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.MR-OMidI1.wORkERS.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tEst1.mr-oMIdi2.WorkerS.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1110,13 +1110,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiSDAyTjZXY2NUb05JY3kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiYXRPdFdGR0tqcGwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.MR-oMidi1.wORKErs.deV",
-                        "fingerprint": "firefox",
+                        "serverName": "TeST1.MR-omidI2.woRKerS.dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1367,13 +1367,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZXBiQXptM25CIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoid0NnU25yN3VkM3MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mR-omidi1.WORkeRS.dEv",
-                        "fingerprint": "firefox",
+                        "serverName": "tEst1.mR-OMIdI2.workErs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1616,13 +1616,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUWZZdHYwQXNLZngiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiU2dmNlhUTDVxNWU1bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TesT1.mR-OMIdI1.WORkERs.DEV",
-                        "fingerprint": "firefox",
+                        "serverName": "TesT1.MR-omiDI2.wORKerS.DEv",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1865,13 +1865,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiR2dvMHB6N1dUZ0oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiSnljbzY0WnoyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.MR-OmIDi1.wOrKers.dEv",
-                        "fingerprint": "firefox",
+                        "serverName": "TEst1.Mr-oMiDI2.WORkERs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2114,13 +2114,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibVczQmNsNmRTZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOG45YlZXMXlaRldMYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mr-OMiDI1.wOrkerS.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TEsT1.MR-OmiDI2.WORkErS.DEv",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2282,7 +2282,7 @@
                     "address": "fakedns",
                     "domains": [
                         "geosite:category-ir",
-                        "full:test1.mr-omidi1.workers.dev"
+                        "full:test1.mr-omidi2.workers.dev"
                     ],
                     "skipFallback": false
                 },
@@ -2311,7 +2311,7 @@
                 {
                     "address": "8.8.8.8",
                     "domains": [
-                        "full:test1.mr-omidi1.workers.dev"
+                        "full:test1.mr-omidi2.workers.dev"
                     ],
                     "skipFallback": true
                 }
@@ -2357,7 +2357,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "test1.mr-omidi1.workers.dev",
+                            "address": "test1.mr-omidi2.workers.dev",
                             "port": 8443,
                             "users": [
                                 {
@@ -2371,13 +2371,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibmVjOXBFZUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiZ05LWmR1Y24iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.mR-OmiDI1.wORKeRs.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TeSt1.mr-OMIdI2.WORkERs.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2628,13 +2628,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicVJIOG5VeHNrSDNncmdSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiNkVGWWgzQThCYWFHMGRyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.Mr-OmidI1.WoRKErs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TEsT1.MR-oMidI2.workeRs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2863,7 +2863,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "172.67.137.151",
                             "port": 8443,
                             "users": [
                                 {
@@ -2877,13 +2877,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiSDRHQncydDhVN2FzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiZWNXZkFaNEFxZ01zIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.MR-OMIDI1.WorkErS.DEV",
-                        "fingerprint": "firefox",
+                        "serverName": "Test1.Mr-OmIDI2.woRKErs.dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3112,7 +3112,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "104.21.70.161",
                             "port": 8443,
                             "users": [
                                 {
@@ -3126,13 +3126,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZGQ5czJqUzZ1WjhIIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOFd3OG4wcllrU3JDRlgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TesT1.Mr-omIDI1.wORkErS.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TESt1.MR-OMIDi2.wOrkers.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3375,13 +3375,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnRSY0NEWFJwMG1XdU0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOXVtQmZ1RUlHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tesT1.Mr-OMIdi1.WoRkeRs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tESt1.MR-OmiDI2.WOrkerS.DEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3632,13 +3632,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQTRra2VrSG9aZ1NRejJvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiRWtoSXNXQngyTlJmU2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.Mr-OMiDI1.wOrkerS.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TeST1.Mr-OmIDI2.WorkErS.DeV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3881,13 +3881,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQUY1dDFIQmdOTUo0Zmh4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoibXVINnZDR096b085IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.mr-OMiDI1.woRkeRs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tEST1.mR-oMidi2.WorKers.deV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4130,13 +4130,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiV1Z4RjNqM0xvWXp6NlBWbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiS3pRVWdsYlRDVkI1OSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.Mr-OmidI1.WorKERs.dEv",
-                        "fingerprint": "firefox",
+                        "serverName": "tESt1.MR-OmIDi2.WORKeRS.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4379,13 +4379,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoickdGWmF5dWN3eld5S2wiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoidVNkVExFZnQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.Mr-OMIdI1.WorKeRs.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tESt1.MR-OMIdI2.WORkers.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4547,7 +4547,7 @@
                     "address": "fakedns",
                     "domains": [
                         "geosite:category-ir",
-                        "full:test1.mr-omidi1.workers.dev",
+                        "full:test1.mr-omidi2.workers.dev",
                         "full:www.speedtest.net",
                         "full:www.hcaptcha.com"
                     ],
@@ -4578,7 +4578,7 @@
                 {
                     "address": "8.8.8.8",
                     "domains": [
-                        "full:test1.mr-omidi1.workers.dev",
+                        "full:test1.mr-omidi2.workers.dev",
                         "full:www.speedtest.net",
                         "full:www.hcaptcha.com"
                     ],
@@ -4626,7 +4626,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "test1.mr-omidi1.workers.dev",
+                            "address": "test1.mr-omidi2.workers.dev",
                             "port": 443,
                             "users": [
                                 {
@@ -4640,13 +4640,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiRElDS2JSelZ6UiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoia21XczFiSnNqNTVrUng1ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "test1.MR-OmIdi1.wOrKeRs.deV",
-                        "fingerprint": "firefox",
+                        "serverName": "TEST1.mr-OMiDi2.wORKERs.dEv",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4683,13 +4683,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZTdNeGVIcWhoNnFsUFUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoidkpRbUFxeHJHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.mr-omidi1.wOrKErS.DeV",
-                        "fingerprint": "firefox",
+                        "serverName": "TesT1.Mr-OmiDI2.wORKErs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4712,7 +4712,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "172.67.137.151",
                             "port": 443,
                             "users": [
                                 {
@@ -4726,13 +4726,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiMW9GblBnT3RtS0VXZE1xIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiM0RWYmIzMkFqalp3ZWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.mR-Omidi1.worKErs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tesT1.mr-OMidI2.WorKERs.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4755,7 +4755,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "104.21.70.161",
                             "port": 443,
                             "users": [
                                 {
@@ -4769,13 +4769,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUTRzZUI4RmY4ekZUNUEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOGVOaEhuMjMwd3ZmRiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Test1.MR-OMidI1.wORkERS.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tEst1.mr-oMIdi2.WorkerS.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4812,13 +4812,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiSDAyTjZXY2NUb05JY3kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiYXRPdFdGR0tqcGwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.MR-oMidi1.wORKErs.deV",
-                        "fingerprint": "firefox",
+                        "serverName": "TeST1.MR-omidI2.woRKerS.dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4855,13 +4855,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZXBiQXptM25CIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoid0NnU25yN3VkM3MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mR-omidi1.WORkeRS.dEv",
-                        "fingerprint": "firefox",
+                        "serverName": "tEst1.mR-OMIdI2.workErs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4898,13 +4898,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiUWZZdHYwQXNLZngiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiU2dmNlhUTDVxNWU1bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TesT1.mR-OMIdI1.WORkERs.DEV",
-                        "fingerprint": "firefox",
+                        "serverName": "TesT1.MR-omiDI2.wORKerS.DEv",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4941,13 +4941,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiR2dvMHB6N1dUZ0oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiSnljbzY0WnoyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEst1.MR-OmIDi1.wOrKers.dEv",
-                        "fingerprint": "firefox",
+                        "serverName": "TEst1.Mr-oMiDI2.WORkERs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4984,13 +4984,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibVczQmNsNmRTZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOG45YlZXMXlaRldMYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "teST1.mr-OMiDI1.wOrkerS.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TEsT1.MR-OmiDI2.WORkErS.DEv",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5013,7 +5013,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "test1.mr-omidi1.workers.dev",
+                            "address": "test1.mr-omidi2.workers.dev",
                             "port": 8443,
                             "users": [
                                 {
@@ -5027,13 +5027,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoibmVjOXBFZUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiZ05LWmR1Y24iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEST1.mR-OmiDI1.wORKeRs.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TeSt1.mr-OMIdI2.WORkERs.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5070,13 +5070,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoicVJIOG5VeHNrSDNncmdSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiNkVGWWgzQThCYWFHMGRyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TeSt1.Mr-OmidI1.WoRKErs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TEsT1.MR-oMidI2.workeRs.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5099,7 +5099,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.161.71",
+                            "address": "172.67.137.151",
                             "port": 8443,
                             "users": [
                                 {
@@ -5113,13 +5113,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiSDRHQncydDhVN2FzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiZWNXZkFaNEFxZ01zIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TESt1.MR-OMIDI1.WorkErS.DEV",
-                        "fingerprint": "firefox",
+                        "serverName": "Test1.Mr-OmIDI2.woRKErs.dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5142,7 +5142,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.15.30",
+                            "address": "104.21.70.161",
                             "port": 8443,
                             "users": [
                                 {
@@ -5156,13 +5156,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiZGQ5czJqUzZ1WjhIIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOFd3OG4wcllrU3JDRlgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TesT1.Mr-omIDI1.wORkErS.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TESt1.MR-OMIDi2.wOrkers.Dev",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5199,13 +5199,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnRSY0NEWFJwMG1XdU0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiOXVtQmZ1RUlHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tesT1.Mr-OMIdi1.WoRkeRs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tESt1.MR-OmiDI2.WOrkerS.DEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5242,13 +5242,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQTRra2VrSG9aZ1NRejJvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiRWtoSXNXQngyTlJmU2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.Mr-OMiDI1.wOrkerS.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "TeST1.Mr-OmIDI2.WorkErS.DeV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5285,13 +5285,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiQUY1dDFIQmdOTUo0Zmh4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoibXVINnZDR096b085IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tEST1.mr-OMiDI1.woRkeRs.Dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tEST1.mR-oMidi2.WorKers.deV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5328,13 +5328,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoiV1Z4RjNqM0xvWXp6NlBWbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoiS3pRVWdsYlRDVkI1OSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "tESt1.Mr-OmidI1.WorKERs.dEv",
-                        "fingerprint": "firefox",
+                        "serverName": "tESt1.MR-OmIDi2.WORKeRS.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5371,13 +5371,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "test1.mr-omidi1.workers.dev",
-                        "path": "/eyJqdW5rIjoickdGWmF5dWN3eld5S2wiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "test1.mr-omidi2.workers.dev",
+                        "path": "/eyJqdW5rIjoidVNkVExFZnQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "TEst1.Mr-OMIdI1.WorKeRs.dev",
-                        "fingerprint": "firefox",
+                        "serverName": "tESt1.MR-OMIdI2.WORkers.dEV",
+                        "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
                         ]
