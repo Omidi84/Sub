@@ -17,7 +17,7 @@
                     "address": "fakedns",
                     "domains": [
                         "geosite:category-ir",
-                        "full:vadana.iau-gov.workers.dev"
+                        "full:shop.mr-omidi3.workers.dev"
                     ],
                     "skipFallback": false
                 },
@@ -46,7 +46,7 @@
                 {
                     "address": "8.8.8.8",
                     "domains": [
-                        "full:vadana.iau-gov.workers.dev"
+                        "full:shop.mr-omidi3.workers.dev"
                     ],
                     "skipFallback": true
                 }
@@ -92,7 +92,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "vadana.iau-gov.workers.dev",
+                            "address": "shop.mr-omidi3.workers.dev",
                             "port": 443,
                             "users": [
                                 {
@@ -106,13 +106,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiV1I5SWlnZk5QS0pjWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiV2FSZ1NhQjVSOGFxdUsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDANa.IAU-GOV.WOrKers.dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHoP.Mr-omIDI3.WOrkERs.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -363,13 +363,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoicWNhbHhsNHN6N0hmUWlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoicGN4cVQwQkVlbkZBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadanA.iau-Gov.wOrKErs.dEV",
-                        "fingerprint": "randomized",
+                        "serverName": "sHop.mR-OMidI3.WorkERS.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -598,7 +598,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.7.93",
+                            "address": "172.67.141.125",
                             "port": 443,
                             "users": [
                                 {
@@ -612,13 +612,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiNG1Xb1Q5S2dTRUtwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiNXdMNnVGYWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VaDaNa.iaU-GOv.WOrKeRS.dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHoP.Mr-OmiDi3.WoRkers.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -847,7 +847,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.155.116",
+                            "address": "104.21.94.235",
                             "port": 443,
                             "users": [
                                 {
@@ -861,13 +861,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoid1N5MmFKbldKYXoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiOUs4YkFpWFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VAdana.IAU-gOv.WOrkers.DeV",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOP.mR-OMiDi3.woRkerS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1110,13 +1110,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoibW45eDg3eUtUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiTExEelBKdlZvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadana.iaU-GoV.WorKeRs.dev",
-                        "fingerprint": "randomized",
+                        "serverName": "ShOP.mR-oMIDI3.WoRkERS.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1367,13 +1367,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoieFA0QjFaU1laUlhDdiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiSHh4OTNvN3UyYm9NVWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDanA.iau-GOv.wORKERs.deV",
-                        "fingerprint": "randomized",
+                        "serverName": "shop.mR-OMIdI3.worKeRS.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1616,13 +1616,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiTnV2aTF1YU8xa2JFSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiOFJEU1BJZ1pGSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VadANA.iAu-gov.WoRKErS.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOP.Mr-oMIDI3.WoRkERS.dEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -1865,13 +1865,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiVEZiUTN3Z1lTT1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiVlV5ZHdOc0tkMkMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VaDANA.IAU-gOv.worKeRs.dEv",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOP.mR-OMiDI3.woRKeRS.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2114,13 +2114,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiMk80SGdtaUxsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiRjBTaHlaUFZqSU1JR3p0OSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vADANa.IaU-GOv.WORKeRS.dEv",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOp.mr-OmIDi3.WORKERS.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2282,7 +2282,7 @@
                     "address": "fakedns",
                     "domains": [
                         "geosite:category-ir",
-                        "full:vadana.iau-gov.workers.dev"
+                        "full:shop.mr-omidi3.workers.dev"
                     ],
                     "skipFallback": false
                 },
@@ -2311,7 +2311,7 @@
                 {
                     "address": "8.8.8.8",
                     "domains": [
-                        "full:vadana.iau-gov.workers.dev"
+                        "full:shop.mr-omidi3.workers.dev"
                     ],
                     "skipFallback": true
                 }
@@ -2357,7 +2357,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "vadana.iau-gov.workers.dev",
+                            "address": "shop.mr-omidi3.workers.dev",
                             "port": 8443,
                             "users": [
                                 {
@@ -2371,13 +2371,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiZk9aeWJ5ZzhoMmNBVkpiSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiRWlRcjhEaGJEcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vADanA.IAu-GOv.woRKerS.DEv",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOp.mR-oMIdI3.worKERS.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2628,13 +2628,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiOEVnOVJIaGcxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiU3BHY0p2aWoyMVdnRGIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vADana.IAU-gOv.woRKeRS.DEV",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOp.MR-oMIDI3.WOrkers.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -2863,7 +2863,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.7.93",
+                            "address": "172.67.141.125",
                             "port": 8443,
                             "users": [
                                 {
@@ -2877,13 +2877,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoidFMzaDVveFVJS3JaIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiUjhIVFJWOFNRQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VadanA.IAU-goV.WOrkers.deV",
-                        "fingerprint": "randomized",
+                        "serverName": "ShOP.mR-omIdI3.WOrkeRS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3112,7 +3112,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.155.116",
+                            "address": "104.21.94.235",
                             "port": 8443,
                             "users": [
                                 {
@@ -3126,13 +3126,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiSXdnQVVNbE1pIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiOXRIbjAzaDBMMENxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDANA.Iau-GOV.wOrkers.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "ShOP.MR-oMiDi3.WorKErs.dEv",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3375,13 +3375,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoic05Sd3RrMmoxSHYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiYlE4SmtRM2RGbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Vadana.iau-gov.wOrKErS.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "sHop.mr-OmIDi3.woRKeRS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3632,13 +3632,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiSjF2RHA4WWpsYjNocVRDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiSTBCbmNockdWUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDAna.IAU-gOv.WOrkERS.DEv",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOP.mR-OMIDi3.wORKeRs.DEv",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -3881,13 +3881,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiMjJJTExMdTNHU1ZNayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiUGNzdUpvWW0yVUh5R1BXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VAdAnA.IAU-Gov.wOrKErS.dEv",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOp.Mr-omiDI3.wOrKERs.dEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4130,13 +4130,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiN2dDeGtKYUVXSkw1RyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiaGVRT3Eyek4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadAnA.Iau-gOv.wOrKERs.dEV",
-                        "fingerprint": "randomized",
+                        "serverName": "shOP.mR-oMIdi3.worKerS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4379,13 +4379,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoibndRWHVHc0RiUUx3QWQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiSVhETVQyM1ROb3U3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadANA.IAu-gOV.WorkERS.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHop.Mr-oMIDi3.WORKErS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4547,7 +4547,7 @@
                     "address": "fakedns",
                     "domains": [
                         "geosite:category-ir",
-                        "full:vadana.iau-gov.workers.dev",
+                        "full:shop.mr-omidi3.workers.dev",
                         "full:www.speedtest.net",
                         "full:www.hcaptcha.com"
                     ],
@@ -4578,7 +4578,7 @@
                 {
                     "address": "8.8.8.8",
                     "domains": [
-                        "full:vadana.iau-gov.workers.dev",
+                        "full:shop.mr-omidi3.workers.dev",
                         "full:www.speedtest.net",
                         "full:www.hcaptcha.com"
                     ],
@@ -4626,7 +4626,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "vadana.iau-gov.workers.dev",
+                            "address": "shop.mr-omidi3.workers.dev",
                             "port": 443,
                             "users": [
                                 {
@@ -4640,13 +4640,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiV1I5SWlnZk5QS0pjWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiV2FSZ1NhQjVSOGFxdUsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDANa.IAU-GOV.WOrKers.dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHoP.Mr-omIDI3.WOrkERs.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4683,13 +4683,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoicWNhbHhsNHN6N0hmUWlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoicGN4cVQwQkVlbkZBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadanA.iau-Gov.wOrKErs.dEV",
-                        "fingerprint": "randomized",
+                        "serverName": "sHop.mR-OMidI3.WorkERS.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4712,7 +4712,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.7.93",
+                            "address": "172.67.141.125",
                             "port": 443,
                             "users": [
                                 {
@@ -4726,13 +4726,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiNG1Xb1Q5S2dTRUtwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiNXdMNnVGYWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VaDaNa.iaU-GOv.WOrKeRS.dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHoP.Mr-OmiDi3.WoRkers.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4755,7 +4755,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.155.116",
+                            "address": "104.21.94.235",
                             "port": 443,
                             "users": [
                                 {
@@ -4769,13 +4769,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoid1N5MmFKbldKYXoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiOUs4YkFpWFkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VAdana.IAU-gOv.WOrkers.DeV",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOP.mR-OMiDi3.woRkerS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4812,13 +4812,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoibW45eDg3eUtUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiTExEelBKdlZvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadana.iaU-GoV.WorKeRs.dev",
-                        "fingerprint": "randomized",
+                        "serverName": "ShOP.mR-oMIDI3.WoRkERS.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4855,13 +4855,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoieFA0QjFaU1laUlhDdiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiSHh4OTNvN3UyYm9NVWIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDanA.iau-GOv.wORKERs.deV",
-                        "fingerprint": "randomized",
+                        "serverName": "shop.mR-OMIdI3.worKeRS.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4898,13 +4898,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiTnV2aTF1YU8xa2JFSSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiOFJEU1BJZ1pGSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VadANA.iAu-gov.WoRKErS.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOP.Mr-oMIDI3.WoRkERS.dEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4941,13 +4941,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiVEZiUTN3Z1lTT1MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiVlV5ZHdOc0tkMkMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VaDANA.IAU-gOv.worKeRs.dEv",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOP.mR-OMiDI3.woRKeRS.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -4984,13 +4984,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiMk80SGdtaUxsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiRjBTaHlaUFZqSU1JR3p0OSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vADANa.IaU-GOv.WORKeRS.dEv",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOp.mr-OmIDi3.WORKERS.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5013,7 +5013,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "vadana.iau-gov.workers.dev",
+                            "address": "shop.mr-omidi3.workers.dev",
                             "port": 8443,
                             "users": [
                                 {
@@ -5027,13 +5027,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiZk9aeWJ5ZzhoMmNBVkpiSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiRWlRcjhEaGJEcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vADanA.IAu-GOv.woRKerS.DEv",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOp.mR-oMIdI3.worKERS.dev",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5070,13 +5070,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiOEVnOVJIaGcxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiU3BHY0p2aWoyMVdnRGIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vADana.IAU-gOv.woRKeRS.DEV",
-                        "fingerprint": "randomized",
+                        "serverName": "SHOp.MR-oMIDI3.WOrkers.DEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5099,7 +5099,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.7.93",
+                            "address": "172.67.141.125",
                             "port": 8443,
                             "users": [
                                 {
@@ -5113,13 +5113,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoidFMzaDVveFVJS3JaIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiUjhIVFJWOFNRQiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VadanA.IAU-goV.WOrkers.deV",
-                        "fingerprint": "randomized",
+                        "serverName": "ShOP.mR-omIdI3.WOrkeRS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5142,7 +5142,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.155.116",
+                            "address": "104.21.94.235",
                             "port": 8443,
                             "users": [
                                 {
@@ -5156,13 +5156,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiSXdnQVVNbE1pIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiOXRIbjAzaDBMMENxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDANA.Iau-GOV.wOrkers.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "ShOP.MR-oMiDi3.WorKErs.dEv",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5199,13 +5199,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoic05Sd3RrMmoxSHYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiYlE4SmtRM2RGbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Vadana.iau-gov.wOrKErS.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "sHop.mr-OmIDi3.woRKeRS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5242,13 +5242,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiSjF2RHA4WWpsYjNocVRDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiSTBCbmNockdWUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vaDAna.IAU-gOv.WOrkERS.DEv",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOP.mR-OMIDi3.wORKeRs.DEv",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5285,13 +5285,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiMjJJTExMdTNHU1ZNayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiUGNzdUpvWW0yVUh5R1BXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "VAdAnA.IAU-Gov.wOrKErS.dEv",
-                        "fingerprint": "randomized",
+                        "serverName": "sHOp.Mr-omiDI3.wOrKERs.dEV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5328,13 +5328,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoiN2dDeGtKYUVXSkw1RyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiaGVRT3Eyek4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadAnA.Iau-gOv.wOrKERs.dEV",
-                        "fingerprint": "randomized",
+                        "serverName": "shOP.mR-oMIdi3.worKerS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
@@ -5371,13 +5371,13 @@
                 "streamSettings": {
                     "network": "ws",
                     "wsSettings": {
-                        "host": "vadana.iau-gov.workers.dev",
-                        "path": "/eyJqdW5rIjoibndRWHVHc0RiUUx3QWQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "host": "shop.mr-omidi3.workers.dev",
+                        "path": "/eyJqdW5rIjoiSVhETVQyM1ROb3U3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "vadANA.IAu-gOV.WorkERS.Dev",
-                        "fingerprint": "randomized",
+                        "serverName": "SHop.Mr-oMIDi3.WORKErS.DeV",
+                        "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
                         ]
