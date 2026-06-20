@@ -36,14 +36,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:shop.mr-omidi3.workers.dev"
@@ -107,11 +99,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ1FsOEt1Q2JTbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoieUloTVU2cGVZYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.Mr-omiDi3.workers.dEv",
+                        "serverName": "Shop.mR-oMidI3.WoRKeRs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -219,8 +211,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -293,14 +284,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:www.speedtest.net"
@@ -364,11 +347,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiS21UNnA3M0Z2ODdVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOGoxd0dOSFhlbWNKZjhWMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.mr-oMIdI3.WORkers.DeV",
+                        "serverName": "shoP.MR-omiDi3.woRkers.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -476,8 +459,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -547,14 +529,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -613,11 +587,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiQWFrOWtmYUsyTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoia0FnREljODMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.Mr-OMiDI3.WorKeRs.DEV",
+                        "serverName": "ShOp.MR-oMidi3.wORKeRS.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -725,8 +699,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -796,14 +769,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -862,11 +827,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoicWRCY2gwaFpIY2l3OVdxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSzczbkNaWjBISGNRbnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHoP.mR-omiDI3.WorKErS.DEv",
+                        "serverName": "SHOp.Mr-omidI3.woRkERs.dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -974,8 +939,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1045,14 +1009,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -1111,11 +1067,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoid0FHV2lUckRCTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ1RhbGRqNDFpcmUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.Mr-oMiDI3.wOrkERS.deV",
+                        "serverName": "sHOP.mR-oMIdi3.wORKERs.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1223,8 +1179,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1297,14 +1252,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:www.hcaptcha.com"
@@ -1368,11 +1315,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoibHJodTZ6alIxN2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT0VxaGNVNWhhRk5HbVl6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.mr-omiDI3.wORkErs.DEV",
+                        "serverName": "shop.MR-oMIdi3.WoRkERs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1480,8 +1427,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1551,14 +1497,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -1617,11 +1555,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiU2FteEZlc2ZPUnFvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiVDF1ZHJrZlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.mR-oMidI3.WoRkeRs.DEv",
+                        "serverName": "shoP.mR-Omidi3.woRKERs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1729,8 +1667,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1803,14 +1740,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:shop.mr-omidi3.workers.dev"
@@ -1874,11 +1803,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiS0ZBZktaeTh4MVllcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiSllJYjdwRkZoVDA3NXlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOP.mR-OmIdi3.WOrkeRS.deV",
+                        "serverName": "shop.mR-omIdI3.wOrKERs.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1986,8 +1915,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2060,14 +1988,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:www.speedtest.net"
@@ -2131,11 +2051,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnBma0phbHhBM09xUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoicllKSGpkSHlnYXZLNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOp.MR-OmidI3.wOrkeRS.deV",
+                        "serverName": "sHOP.mR-OmiDI3.wOrkers.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2243,8 +2163,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2314,14 +2233,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -2380,11 +2291,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoibmdYYzAybDM5VmhmeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUlZ1THVHRjZ0YldFVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHoP.mR-oMIdI3.WOrKeRS.dEV",
+                        "serverName": "sHOp.mr-OmIdi3.WorkERS.dEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2492,8 +2403,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2563,14 +2473,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -2629,11 +2531,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiNWRHcjZMazBuQlRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieHlYU3ZIMjdUendtViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.Mr-OMIdI3.wORKeRs.deV",
+                        "serverName": "ShoP.MR-OmIDi3.WoRKeRs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2741,8 +2643,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2812,14 +2713,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -2878,11 +2771,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiMU1USFhxWWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNEt6TGs2dGdadVhEVWpyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.mR-oMIdI3.wORKErS.DeV",
+                        "serverName": "shOP.mR-OmIDI3.wOrKeRS.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2990,8 +2883,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3064,14 +2956,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:www.hcaptcha.com"
@@ -3135,11 +3019,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiZWtuVDR6akNOeTk2aVZnUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoic01IY1k4QkoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.mr-OmIdI3.woRkERS.DeV",
+                        "serverName": "sHoP.MR-OMidi3.wOrKeRs.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3247,8 +3131,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3318,14 +3201,6 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                },
-                {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -3384,11 +3259,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiN09leGcxWTYzcXI4N1ciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUWkzdWRxREsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.Mr-oMIdI3.workErs.DEv",
+                        "serverName": "SHOP.mr-OmIDi3.WORKERS.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3496,8 +3371,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3572,14 +3446,6 @@
                     "skipFallback": true
                 },
                 {
-                    "address": "178.22.122.100",
-                    "domains": [
-                        "geosite:openai"
-                    ],
-                    "skipFallback": true,
-                    "finalQuery": true
-                },
-                {
                     "address": "8.8.8.8",
                     "domains": [
                         "full:shop.mr-omidi3.workers.dev",
@@ -3645,11 +3511,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ1FsOEt1Q2JTbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoieUloTVU2cGVZYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.Mr-omiDi3.workers.dEv",
+                        "serverName": "Shop.mR-oMidI3.WoRKeRs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3688,11 +3554,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiS21UNnA3M0Z2ODdVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOGoxd0dOSFhlbWNKZjhWMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.mr-oMIdI3.WORkers.DeV",
+                        "serverName": "shoP.MR-omiDi3.woRkers.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3731,11 +3597,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiQWFrOWtmYUsyTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoia0FnREljODMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.Mr-OMiDI3.WorKeRs.DEV",
+                        "serverName": "ShOp.MR-oMidi3.wORKeRS.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3774,11 +3640,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoicWRCY2gwaFpIY2l3OVdxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSzczbkNaWjBISGNRbnUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHoP.mR-omiDI3.WorKErS.DEv",
+                        "serverName": "SHOp.Mr-omidI3.woRkERs.dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3817,11 +3683,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoid0FHV2lUckRCTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ1RhbGRqNDFpcmUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.Mr-oMiDI3.wOrkERS.deV",
+                        "serverName": "sHOP.mR-oMIdi3.wORKERs.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3860,11 +3726,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoibHJodTZ6alIxN2giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT0VxaGNVNWhhRk5HbVl6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.mr-omiDI3.wORkErs.DEV",
+                        "serverName": "shop.MR-oMIdi3.WoRkERs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3903,11 +3769,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiU2FteEZlc2ZPUnFvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiVDF1ZHJrZlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.mR-oMidI3.WoRkeRs.DEv",
+                        "serverName": "shoP.mR-Omidi3.woRKERs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3946,11 +3812,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiS0ZBZktaeTh4MVllcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiSllJYjdwRkZoVDA3NXlPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOP.mR-OmIdi3.WOrkeRS.deV",
+                        "serverName": "shop.mR-omIdI3.wOrKERs.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3989,11 +3855,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnBma0phbHhBM09xUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoicllKSGpkSHlnYXZLNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOp.MR-OmidI3.wOrkeRS.deV",
+                        "serverName": "sHOP.mR-OmiDI3.wOrkers.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4032,11 +3898,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoibmdYYzAybDM5VmhmeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUlZ1THVHRjZ0YldFVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHoP.mR-oMIdI3.WOrKeRS.dEV",
+                        "serverName": "sHOp.mr-OmIdi3.WorkERS.dEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4075,11 +3941,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiNWRHcjZMazBuQlRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieHlYU3ZIMjdUendtViIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.Mr-OMIdI3.wORKeRs.deV",
+                        "serverName": "ShoP.MR-OmIDi3.WoRKeRs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4118,11 +3984,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiMU1USFhxWWsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNEt6TGs2dGdadVhEVWpyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.mR-oMIdI3.wORKErS.DeV",
+                        "serverName": "shOP.mR-OmIDI3.wOrKeRS.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4161,11 +4027,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiZWtuVDR6akNOeTk2aVZnUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoic01IY1k4QkoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.mr-OmIdI3.woRkERS.DeV",
+                        "serverName": "sHoP.MR-OMidi3.wOrKeRs.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4204,11 +4070,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi3.workers.dev",
-                        "path": "/eyJqdW5rIjoiN09leGcxWTYzcXI4N1ciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUWkzdWRxREsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.Mr-oMIdI3.workErs.DEv",
+                        "serverName": "SHOP.mr-OmIDi3.WORKERS.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4316,8 +4182,7 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
-                        "geosite:openai"
+                        "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
