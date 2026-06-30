@@ -8,10 +8,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -22,7 +18,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -99,11 +95,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRUdrNnI1M2JaM2dFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWdKY1dWMG15dlAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOp.mR-oMIDI4.wORKeRs.Dev",
+                        "serverName": "sHOp.Mr-omIDI4.WorkerS.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -198,14 +194,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -256,10 +244,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -270,7 +254,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -347,11 +331,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiNXJ3YUlOTmoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiVjh5T3hRaUgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.MR-omIDI4.WorKERs.DEV",
+                        "serverName": "SHOp.MR-OmIdi4.wORkers.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -446,14 +430,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -504,10 +480,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -517,7 +489,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -572,7 +544,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 443,
                             "users": [
                                 {
@@ -587,11 +559,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiSTFVMG1ubFQwSUMxMnBjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUFdhRmdmV0Z4UjRGSXoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.MR-OmiDI4.WorKERS.DEv",
+                        "serverName": "shoP.mR-OmidI4.wOrKERs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -686,14 +658,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -744,10 +708,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -757,7 +717,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -812,7 +772,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 443,
                             "users": [
                                 {
@@ -827,11 +787,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoidlZUbE9rT25weWU3a2V3ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoicFVUVkN5dWRLUUlSa0taIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.MR-oMiDi4.WOrkErS.Dev",
+                        "serverName": "sHoP.Mr-OmIdI4.WOrkerS.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -926,14 +886,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -984,10 +936,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -997,7 +945,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -1067,11 +1015,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiUktTZHpoWnJvU2d0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNGtZTFlxR0dEdkFvMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.Mr-OMIdi4.worKerS.deV",
+                        "serverName": "shOP.mr-OMIDi4.woRKErs.dEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1166,14 +1114,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -1224,10 +1164,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -1238,7 +1174,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -1315,11 +1251,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoibWVMWUZPWHU0eGJIZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoieXI0Ylp6RUV6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shop.MR-OmiDi4.WOrkERs.dev",
+                        "serverName": "SHop.Mr-omIDi4.woRKeRs.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1414,14 +1350,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -1472,10 +1400,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -1485,7 +1409,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -1555,11 +1479,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoicGY2NGRQcTNmNHJtVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoid0M3VU1LNTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.mr-OMidi4.worKERs.DEv",
+                        "serverName": "ShOP.Mr-OmIdI4.woRKeRs.dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1654,14 +1578,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -1712,10 +1628,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -1726,7 +1638,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -1803,11 +1715,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiTEZaTVlSanAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoid1Jjbko3ZVVBdG1lUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOP.mr-OMIDi4.WORKerS.dEV",
+                        "serverName": "sHop.Mr-OmiDI4.worKErs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1902,14 +1814,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -1960,10 +1864,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -1974,7 +1874,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -2051,11 +1951,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoicUVyaTNRY1VIIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZHJNUUN6SjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.mR-OmIDi4.wOrkERs.dEV",
+                        "serverName": "ShOp.mr-OMiDi4.wORKErS.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2150,14 +2050,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -2208,10 +2100,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -2221,7 +2109,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -2276,7 +2164,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 8443,
                             "users": [
                                 {
@@ -2291,11 +2179,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiWExRVzFURHdoVnZ4R280IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWmlBRXpaZlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.MR-OMIdi4.WOrkeRs.dEv",
+                        "serverName": "sHop.mR-OmIDi4.wOrkeRs.dEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2390,14 +2278,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -2448,10 +2328,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -2461,7 +2337,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -2516,7 +2392,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 8443,
                             "users": [
                                 {
@@ -2531,11 +2407,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoidElFUHRhMk1vIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoicWE1dXh1bm80Q0UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.MR-OMiDI4.WorKERs.dEv",
+                        "serverName": "shOP.mR-OmIDi4.wORKers.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2630,14 +2506,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -2688,10 +2556,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -2701,7 +2565,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -2771,11 +2635,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiU0dlQnlNR09BVG5xU1IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiY3BsN1ZTWU1QIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.mR-oMIDI4.woRKerS.deV",
+                        "serverName": "SHoP.mR-OMIDi4.WOrkeRS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2870,14 +2734,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -2928,10 +2784,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -2942,7 +2794,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -3019,11 +2871,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiY0d1S2ZnV2xSTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoialo5RU5xZTdHNkxLMHZ2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOp.mR-omidi4.WoRkerS.DEV",
+                        "serverName": "sHOP.Mr-OMIdi4.wOrkERs.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3118,14 +2970,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
@@ -3176,10 +3020,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -3189,7 +3029,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -3259,11 +3099,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiaGFtYVBsQm1KIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWlBvU0tFSkZzZlIyOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHoP.Mr-OMidi4.wORkErs.deV",
+                        "serverName": "ShoP.Mr-OMiDI4.wOrKeRS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3363,14 +3203,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
                         "geosite:category-ir"
                     ],
                     "outboundTag": "direct",
@@ -3416,10 +3248,6 @@
             "loglevel": "none"
         },
         "dns": {
-            "hosts": {
-                "geosite:category-ads-all": "#3",
-                "geosite:category-ads-ir": "#3"
-            },
             "servers": [
                 {
                     "address": "fakedns",
@@ -3432,7 +3260,7 @@
                     "skipFallback": false
                 },
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://94.140.14.14/dns-query",
                     "tag": "remote-dns"
                 },
                 {
@@ -3511,11 +3339,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRUdrNnI1M2JaM2dFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWdKY1dWMG15dlAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOp.mR-oMIDI4.wORKeRs.Dev",
+                        "serverName": "sHOp.Mr-omIDI4.WorkerS.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3554,11 +3382,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiNXJ3YUlOTmoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiVjh5T3hRaUgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.MR-omIDI4.WorKERs.DEV",
+                        "serverName": "SHOp.MR-OmIdi4.wORkers.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3582,7 +3410,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 443,
                             "users": [
                                 {
@@ -3597,11 +3425,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiSTFVMG1ubFQwSUMxMnBjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUFdhRmdmV0Z4UjRGSXoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.MR-OmiDI4.WorKERS.DEv",
+                        "serverName": "shoP.mR-OmidI4.wOrKERs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3625,7 +3453,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 443,
                             "users": [
                                 {
@@ -3640,11 +3468,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoidlZUbE9rT25weWU3a2V3ayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoicFVUVkN5dWRLUUlSa0taIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.MR-oMiDi4.WOrkErS.Dev",
+                        "serverName": "sHoP.Mr-OmIdI4.WOrkerS.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3683,11 +3511,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiUktTZHpoWnJvU2d0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNGtZTFlxR0dEdkFvMyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.Mr-OMIdi4.worKerS.deV",
+                        "serverName": "shOP.mr-OMIDi4.woRKErs.dEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3726,11 +3554,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoibWVMWUZPWHU0eGJIZSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoieXI0Ylp6RUV6IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shop.MR-OmiDi4.WOrkERs.dev",
+                        "serverName": "SHop.Mr-omIDi4.woRKeRs.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3769,11 +3597,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoicGY2NGRQcTNmNHJtVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoid0M3VU1LNTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.mr-OMidi4.worKERs.DEv",
+                        "serverName": "ShOP.Mr-OmIdI4.woRKeRs.dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3812,11 +3640,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiTEZaTVlSanAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoid1Jjbko3ZVVBdG1lUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOP.mr-OMIDi4.WORKerS.dEV",
+                        "serverName": "sHop.Mr-OmiDI4.worKErs.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3855,11 +3683,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoicUVyaTNRY1VIIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZHJNUUN6SjIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.mR-OmIDi4.wOrkERs.dEV",
+                        "serverName": "ShOp.mr-OMiDi4.wORKErS.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3883,7 +3711,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 8443,
                             "users": [
                                 {
@@ -3898,11 +3726,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiWExRVzFURHdoVnZ4R280IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWmlBRXpaZlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.MR-OMIdi4.WOrkeRs.dEv",
+                        "serverName": "sHop.mR-OmIDi4.wOrkeRs.dEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3926,7 +3754,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 8443,
                             "users": [
                                 {
@@ -3941,11 +3769,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoidElFUHRhMk1vIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoicWE1dXh1bm80Q0UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOP.MR-OMiDI4.WorKERs.dEv",
+                        "serverName": "shOP.mR-OmIDi4.wORKers.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3984,11 +3812,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiU0dlQnlNR09BVG5xU1IiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiY3BsN1ZTWU1QIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.mR-oMIDI4.woRKerS.deV",
+                        "serverName": "SHoP.mR-OMIDi4.WOrkeRS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4027,11 +3855,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiY0d1S2ZnV2xSTyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoialo5RU5xZTdHNkxLMHZ2IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOp.mR-omidi4.WoRkerS.DEV",
+                        "serverName": "sHOP.Mr-OMIdi4.wOrkERs.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4070,11 +3898,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiaGFtYVBsQm1KIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWlBvU0tFSkZzZlIyOSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHoP.Mr-OMidi4.wORkErs.deV",
+                        "serverName": "ShoP.Mr-OMiDI4.wOrKeRS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -4169,14 +3997,6 @@
                 },
                 {
                     "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ads-all",
-                        "geosite:category-ads-ir"
-                    ],
                     "outboundTag": "block",
                     "type": "field"
                 },
