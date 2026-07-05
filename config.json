@@ -95,11 +95,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiaDRSUTdrblFjeHYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicjYzbnE3aDgzc3BCN2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.mr-oMIDi4.workErs.DEv",
+                        "serverName": "SHOP.Mr-OMiDI4.WoRKErS.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -331,11 +331,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRmp1ZVFkcmQwUUhxSWp0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZnlsMkkyOVZ0ZHljbldpdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.MR-OmiDI4.workeRs.deV",
+                        "serverName": "Shop.mr-oMIdi4.workERs.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -544,7 +544,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 443,
                             "users": [
                                 {
@@ -559,11 +559,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiREJZS0lPNU5IZHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoidThmWUFBaVA5TzlPT08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOP.MR-OmIdI4.WORkERs.DEV",
+                        "serverName": "sHOp.MR-OMIDi4.WORKerS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -772,7 +772,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 443,
                             "users": [
                                 {
@@ -787,11 +787,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiT2ZkS1U4YVR4eiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoieXMwTG5vVnFjQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.MR-omIDi4.wOrKErs.dEV",
+                        "serverName": "SHoP.MR-OMIDI4.WorkeRS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1015,11 +1015,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiM3RLWnUzelE5aW10OGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicmRkVnFkZnR5R1JwZ2pPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHoP.mr-OmiDi4.WoRKeRs.DEv",
+                        "serverName": "SHOP.Mr-OmIDI4.wOrkeRS.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1251,11 +1251,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiZ2lqMVNNQ0ZnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoibXVUTXE2b1pvNThiYVAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOp.mR-OmiDI4.WorKeRS.deV",
+                        "serverName": "shop.Mr-OMIDi4.WOrkers.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1479,11 +1479,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRUZUYXVibzVFVTlwQnl3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUFlRaHVlWGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOP.mR-oMIdI4.WoRKERs.deV",
+                        "serverName": "sHop.MR-Omidi4.WOrKeRs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1715,11 +1715,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoickVjN0lkamMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZTEzTzZRZjVTbFlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOp.Mr-omiDI4.wORkeRS.deV",
+                        "serverName": "SHop.mR-omidI4.WORKeRs.dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -1951,11 +1951,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRmtYWkNkRmJwTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoib1FKdEx5VUFuSzN1a3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHOP.MR-OMiDI4.WORKERs.Dev",
+                        "serverName": "ShoP.MR-OmIdI4.woRkErS.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2164,7 +2164,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 8443,
                             "users": [
                                 {
@@ -2179,11 +2179,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiSVh2T0s5dXBXWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoicHpKU3I5N1M0ZTZ0YUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.mR-omiDI4.WorkErS.DEv",
+                        "serverName": "SHOp.mr-Omidi4.wORKErs.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2392,7 +2392,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 8443,
                             "users": [
                                 {
@@ -2407,11 +2407,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiTzRQVjY0d3o1cmI3b2EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOW5JNVM3OVk0bjNMSFgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHOp.MR-OMIDI4.wORkerS.DEv",
+                        "serverName": "ShOP.Mr-OMIdI4.WORkErs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2635,11 +2635,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiUnN4UnBra0EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWNpdksxdXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.Mr-OmIDI4.wORkErS.DEv",
+                        "serverName": "SHoP.mr-OMIDI4.WorkERS.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -2871,11 +2871,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiWm5ycXFKbUVuMTdLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNkliYjZIaE40NXRJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.mr-oMiDi4.woRkerS.dev",
+                        "serverName": "sHoP.Mr-oMIdi4.woRKERS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3099,11 +3099,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiUkdndEdBeUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWXNiOVJTTVVQbmdJelF4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShoP.Mr-OMIdi4.wORKERs.dEV",
+                        "serverName": "Shop.mR-oMIDI4.WOrkeRs.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3339,11 +3339,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiaDRSUTdrblFjeHYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicjYzbnE3aDgzc3BCN2MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.mr-oMIDi4.workErs.DEv",
+                        "serverName": "SHOP.Mr-OMiDI4.WoRKErS.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3382,11 +3382,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRmp1ZVFkcmQwUUhxSWp0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZnlsMkkyOVZ0ZHljbldpdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.MR-OmiDI4.workeRs.deV",
+                        "serverName": "Shop.mr-oMIdi4.workERs.Dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3410,7 +3410,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 443,
                             "users": [
                                 {
@@ -3425,11 +3425,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiREJZS0lPNU5IZHgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoidThmWUFBaVA5TzlPT08iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOP.MR-OmIdI4.WORkERs.DEV",
+                        "serverName": "sHOp.MR-OMIDi4.WORKerS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3453,7 +3453,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 443,
                             "users": [
                                 {
@@ -3468,11 +3468,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiT2ZkS1U4YVR4eiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoieXMwTG5vVnFjQSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shoP.MR-omIDi4.wOrKErs.dEV",
+                        "serverName": "SHoP.MR-OMIDI4.WorkeRS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3511,11 +3511,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiM3RLWnUzelE5aW10OGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicmRkVnFkZnR5R1JwZ2pPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHoP.mr-OmiDi4.WoRKeRs.DEv",
+                        "serverName": "SHOP.Mr-OmIDI4.wOrkeRS.DeV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3554,11 +3554,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiZ2lqMVNNQ0ZnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoibXVUTXE2b1pvNThiYVAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOp.mR-OmiDI4.WorKeRS.deV",
+                        "serverName": "shop.Mr-OMIDi4.WOrkers.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3597,11 +3597,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRUZUYXVibzVFVTlwQnl3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUFlRaHVlWGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShOP.mR-oMIdI4.WoRKERs.deV",
+                        "serverName": "sHop.MR-Omidi4.WOrKeRs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3640,11 +3640,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoickVjN0lkamMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZTEzTzZRZjVTbFlUIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "SHOp.Mr-omiDI4.wORkeRS.deV",
+                        "serverName": "SHop.mR-omidI4.WORKeRs.dev",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3683,11 +3683,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiRmtYWkNkRmJwTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoib1FKdEx5VUFuSzN1a3YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHOP.MR-OMiDI4.WORKERs.Dev",
+                        "serverName": "ShoP.MR-OmIdI4.woRkErS.DEV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3711,7 +3711,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.51.184",
+                            "address": "172.67.183.151",
                             "port": 8443,
                             "users": [
                                 {
@@ -3726,11 +3726,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiSVh2T0s5dXBXWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjExNi4yMDMuNTguMTY1Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoicHpKU3I5N1M0ZTZ0YUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Shop.mR-omiDI4.WorkErS.DEv",
+                        "serverName": "SHOp.mr-Omidi4.wORKErs.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3754,7 +3754,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.183.151",
+                            "address": "104.21.51.184",
                             "port": 8443,
                             "users": [
                                 {
@@ -3769,11 +3769,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiTzRQVjY0d3o1cmI3b2EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOW5JNVM3OVk0bjNMSFgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHOp.MR-OMIDI4.wORkerS.DEv",
+                        "serverName": "ShOP.Mr-OMIdI4.WORkErs.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3812,11 +3812,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiUnN4UnBra0EiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWNpdksxdXEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "sHop.Mr-OmIDI4.wORkErS.DEv",
+                        "serverName": "SHoP.mr-OMIDI4.WorkERS.deV",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3855,11 +3855,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiWm5ycXFKbUVuMTdLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNkliYjZIaE40NXRJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "shOp.mr-oMiDi4.woRkerS.dev",
+                        "serverName": "sHoP.Mr-oMIdi4.woRKERS.dEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
@@ -3898,11 +3898,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "shop.mr-omidi4.workers.dev",
-                        "path": "/eyJqdW5rIjoiUkdndEdBeUoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxMTYuMjAzLjU4LjE2NSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWXNiOVJTTVVQbmdJelF4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTE2LjIwMy41OC4xNjUiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "ShoP.Mr-OMIdi4.wORKERs.dEV",
+                        "serverName": "Shop.mR-oMIDI4.WOrkeRs.DEv",
                         "fingerprint": "random",
                         "alpn": [
                             "http/1.1"
