@@ -20,7 +20,7 @@ jobs:
       # 2. Fetch remote content
       - name: Download latest config
         run: |
-          curl -L "https://shop.mr-omidi6.workers.dev/sub/normal/%24MqHEPq*IHm%26YrFS?app=xray" -o latest.txt
+          curl -L "https://shop.mr-omidi7.workers.dev/sub/normal/%24MqHEPq*IHm%26YrFS?app=xray" -o latest.txt
 
       # 3. Compare with existing file
       - name: Check changes
